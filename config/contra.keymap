@@ -11,6 +11,8 @@
 #define DEFAULT  0
 #define NUM_MODS 1
 #define BT_CTRL  2
+#define QuickNav 3
+#define Numpad   4
 
 / {
     keymap {
